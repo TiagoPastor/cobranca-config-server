@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: cobranca-config-serve
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - '*'
+cobranca-config-serve:
+   greeting: "Hola"
+   default-value: "Mundo"
