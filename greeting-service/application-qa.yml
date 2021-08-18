@@ -1,6 +1,6 @@
 spring:
   application:
-    name: cobranca-config-serve
+    name: cobranca-config-server
 management:
   endpoints:
     web:
