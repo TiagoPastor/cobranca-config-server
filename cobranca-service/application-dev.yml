@@ -8,5 +8,5 @@ management:
         include:
         - '*'
 cobranca-service:
-   greeting: "Teste"
+   greeting: "Sayonara"
    default-value: "Mundo"
