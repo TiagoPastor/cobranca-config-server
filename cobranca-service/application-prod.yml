@@ -1,12 +1,12 @@
 spring:
   application:
-    name: cobranca-config-server
+    name: cobranca-service
 management:
   endpoints:
     web:
       exposure:
         include:
         - '*'
-cobranca-config-serve:
-   greeting: "Olá"
+cobranca-service:
+   greeting: "Hola"
    default-value: "Mundo"
